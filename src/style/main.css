@@ -1,0 +1,101 @@
+.laptop{
+    height: 70vh;
+    width: 80%;
+    position: relative;
+}
+.wrapper{
+    display: flex;
+   
+    justify-content: start;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+/* slide show side----------------------------> */
+/* 
+.lap {
+    display: none;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+
+  @keyframes fade {
+    from {
+      opacity: .4
+    }
+    to {
+      opacity: 2
+    }
+  } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.computer-text{
+    position: relative;
+    right: 18rem;
+    top: 5rem;
+}
+.computer-text{
+    position: absolute;
+    left: 29rem;
+}
+main{
+    margin-top: 1rem;
+    background-image: url('/public/main image/comp.jpg');
+    height: 27rem;
+}
+.computer-text h1{
+    color: whitesmoke;
+    font-size: 40px;
+    line-height: -10px;
+    transform: scaleY(2);
+    letter-spacing: 5px;
+}
+.computer-text h3{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: aliceblue;
+    letter-spacing: 5px;
+}
+span{
+    color: orangered;
+}
+i{
+    letter-spacing: 10px;
+    color: bisque;
+    position: relative;
+    top: -8px;
+}
+
+.btn1{
+    color: white;
+    background-color: red;
+    border: none;
+    padding: 10px;
+    width: 10rem;
+    border-radius: 5px;
+    font-size: 17px;
+    cursor: pointer;
+}

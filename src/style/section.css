@@ -1,0 +1,25 @@
+.wrapper2 .sales1{
+    height: 150px;
+}
+.wrapper2{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.sale-text{
+    border: 1px solid blue;
+    box-sizing: border-box;
+    align-items: center;
+    border-radius: 10px;
+    height: 10rem;
+}
+.sale-text .btn2{
+    color: white;
+    background-color: rgb(209, 34, 34);
+    border: none;
+    padding: 10px;
+    width: 10rem;
+    border-radius: 5px;
+    font-size: 17px;
+    cursor: pointer;
+}

@@ -1,0 +1,25 @@
+.our-story-image img{
+    height: 310px;
+    /* width: 30%; */
+    position: relative;
+    left: 50px;
+    margin-top: 1rem;
+    border-radius: 10px;
+    width: 70rem;
+}
+.firstframe{
+    background-color: rgb(32, 149, 196);
+    text-align: center;
+    color: aliceblue;
+    border-radius: 20px;
+    margin-top: 1rem;
+    box-shadow: 1px 1px silver;
+}
+.firstframe h1{
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+.firstframe p{
+    font-size: 15px;
+}
