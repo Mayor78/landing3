@@ -3,6 +3,7 @@ import "../style/navbar.css"
 
 const Navbar = () => {
   return (
+    <>
   <nav>
     <div className="navfirst">
         <img className='logo' src="../main image/logomy1.png" alt="" />
@@ -19,7 +20,7 @@ const Navbar = () => {
     <i class="fa-solid fa-phone"></i>
     </div>
   </nav>
-  
+  </>
   )
 }
 

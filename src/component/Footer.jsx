@@ -1,4 +1,3 @@
-import React from 'react'
 import "../style/main.css"
 import  '../App.js'
 
@@ -21,6 +20,7 @@ function Footer() {
   
   
   return (
+    <>
  <main>
  
   <div className="wrapper">
@@ -48,6 +48,7 @@ function Footer() {
    
      
  </main>
+ </>
   )
 }
 

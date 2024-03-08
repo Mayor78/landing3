@@ -2,6 +2,7 @@ import React from 'react'
 import "../style/head.css"
 function Head() {
   return (
+    <>
  <div className="wrapper3">
     
    <div className='firstframe'>
@@ -23,7 +24,7 @@ function Head() {
   
    </div>
  
-  
+   </>
  
   )
 }
